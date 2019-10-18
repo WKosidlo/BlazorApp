@@ -9,8 +9,9 @@ namespace Shared
             var x = 4;
             var y = 1;
             var z = 1;
-            var b = 1;
-            var c = 1;
+            var a = 2;
+            var b = 2;
+            var c = 2;
         }
     }
 }
