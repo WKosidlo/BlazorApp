@@ -9,6 +9,7 @@ namespace Shared
             var x = 4;
             var y = 1;
             var z = 1;
+            var a = 1;
         }
     }
 }
