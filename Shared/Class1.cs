@@ -6,7 +6,7 @@ namespace Shared
     {
         public Class1()
         {
-            var x = 3;
+            var x = 4;
         }
     }
 }
